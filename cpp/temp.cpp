@@ -5,9 +5,13 @@
  */
 #include <bits/stdc++.h>
 #define nl "\n"
-#define pb push_back
-#define eb emplace_back
+#define PB push_back
+#define EB emplace_back
+#define F first
+#define S second
+#define MP make_pair
 
+using namespace std;
 
 typedef long long ll;
 typedef vector<int> vi;
